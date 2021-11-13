@@ -4,6 +4,8 @@ public class matheus{
 
 	public void close();
 
+	public void open(){
+	}
 }
 
 
