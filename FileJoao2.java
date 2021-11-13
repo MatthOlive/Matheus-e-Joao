@@ -1,11 +1,11 @@
 public class FileJoao2 {
-FileA fileA;
+FileJoao fileJoao;
 
 public void methodX(){
 }
 
 public void methodY() {
-fileA.open();
+fileJoao.open();
 }
 }
 
