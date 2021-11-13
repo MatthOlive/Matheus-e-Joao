@@ -1,5 +1,7 @@
 public class FileJoao {
 
-int nome: 
+int nome;
+
+public void open (){}
 }
 
