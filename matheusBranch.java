@@ -8,7 +8,7 @@ public class matheusBranch{
 
 	
 	public void methodY(){
-
+		matheus.open();
 	}
 
 }
