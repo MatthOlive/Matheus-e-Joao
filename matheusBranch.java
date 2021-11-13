@@ -5,5 +5,11 @@ public class matheusBranch{
 	public void methodX(){
 
 	}
+
+	
+	public void methodY(){
+
+	}
+
 }
 
